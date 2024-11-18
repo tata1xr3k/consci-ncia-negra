@@ -1,0 +1,7 @@
+body{
+    @font-face {
+        font-family:BebasNeue-Regular;
+        src: url(font/BebasNeue-Regular.ttf)
+        format(truetype);
+    }
+}
